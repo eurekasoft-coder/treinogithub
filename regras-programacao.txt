@@ -1,5 +1,6 @@
 As regras de programação devem 
 ser seguidas de forma no contexto
 de um algoritimo bem organizado.
+Siga as boas práticas para desenvolvimento.
 
 Prof: Euripedes Silva
