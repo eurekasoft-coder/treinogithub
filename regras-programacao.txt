@@ -1,0 +1,5 @@
+As regras de programação devem 
+ser seguidas de forma no contexto
+de um algoritimo bem organizado.
+
+Prof: Euripedes Silva
